@@ -1,2 +1,2 @@
-print('git练习--> 文件1')
-print('用户gogo修改第一次')
+print(wjn 用户 第二次pull并修改)  -
+print(wjn 用户 第二次pull 并提交)
